@@ -1,4 +1,4 @@
-# Hi there, I'm Jan 👋
+# yahallo! 👋
 
 I'm a **BS Computer Science** student passionate about building things — from web apps to games.
 
