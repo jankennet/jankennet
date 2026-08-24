@@ -81,13 +81,6 @@
 * Local LLM inference and optimization
 * Production-oriented full-stack development
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jankennet&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
-
----
 
 <p align="center">
   <b>⚡ Always learning. Always building.</b>
