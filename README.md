@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tenor.com/view/uma-musume-anime-haru-urara-hi-hello-gif-13117639751450924729">
-    <img src="./assets/haru_urara_wave.gif" width="180" alt="Haru Urara Waving">
+    <img src="./assets/uma-musume-anime.gif" width="180" alt="Haru Urara Waving">
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://tenor.com/view/cat-67-brasil-dance-gif-18317846230783265167">
-    <img src="./assets/cat_67.gif" width="350" alt="Cats Dancing">
+    <img src="./assets/cat-67.gif" width="350" alt="Cats Dancing">
   </a>
 </p>
 
