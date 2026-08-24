@@ -1,40 +1,60 @@
 # yahallo! 👋
 
-I'm a **BS Computer Science** student passionate about building things — from web apps to games.
+I'm a **BS Computer Science graduate and software developer** interested in building practical software, from web applications and games to **AI, RAG systems, developer tools, and local inference**.
+
+I like building things, experimenting with new technologies, and turning ideas into working systems.
 
 ## 🔭 What I'm Working On
 
-- 🎮 **[Learnix](https://github.com/jankennet/learnix)** — a learning-focused game built in Godot (GDScript)
-- 🌐 Web projects using React, TypeScript, and PHP
+* 🤖 **AI & RAG** — retrieval systems, Agentic RAG, evaluation pipelines, and local AI
+* 🧰 **Developer Tools** — MCP servers, AI tooling, proxies, and developer workflows
+* 🌐 **Web Applications** — full-stack applications with React, TypeScript, and modern backend technologies
 
 ## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
+### Languages
 
-## 🌱 Currently Learning
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat\&logo=godotengine\&logoColor=white)
 
-- Game development with **Godot Engine**
-- Full-stack web development
+### Web & Application Development
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+
+### AI & Infrastructure
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C1C1C?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
+
+**Interested in:** RAG · Agentic AI · MCP · LLM inference · vector search · local AI · developer tooling
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Learnix](https://github.com/jankennet/learnix) | Learning-focused game | GDScript / Godot |
-| [Final React Exam](https://github.com/jankennet/Final-React-Exam-CS4) | React exam project | TypeScript / React |
-| [Final PHP Exam](https://github.com/jankennet/Final-Exam-PHP) | PHP exam project | PHP |
-| [Systems Fundamentals - To Do List](https://github.com/jankennet/Systems-Fundamentals-ToDo) | BSCS lab activity | HTML / CSS |
+| Project                                          | Description                                                            | Tech                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------- | ------------------------------------- |
+| [RAG Lab](https://github.com/jankennet/RAG-Lab)  | RAG experimentation, evaluation, and retrieval system development      | TypeScript / React / RAG              |
+| [LocalAI](https://github.com/jankennet/Local-AI) | Local OpenAI-compatible inference proxy optimized for low-end hardware | Python / FastAPI / llama.cpp / Vulkan |
+| [Learnix](https://github.com/jankennet/learnix)  | Learning-focused game designed around interactive gameplay             | Godot / GDScript                      |
+
+## 🌱 Currently Learning
+
+* Agentic RAG architectures
+* MCP and AI agent tooling
+* Local LLM inference and optimization
+* Production-oriented full-stack development
 
 ## 📊 GitHub Stats
 
-![jankennet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankennet&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jankennet&layout=compact&theme=tokyonight&hide_border=true)
+![jankennet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankennet\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ---
 
-⚡ *Always learning, always building.*
+⚡ **Always learning. Always building.**
